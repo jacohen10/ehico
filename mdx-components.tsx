@@ -1,5 +1,7 @@
 import type { MDXComponents } from "mdx/types";
 import Image from "next/image";
+import { InlineCTA } from "@/components/marketing/inline-cta";
+import { TableOfContents } from "@/components/marketing/table-of-contents";
 
 export function useMDXComponents(components: MDXComponents): MDXComponents {
   return {
@@ -12,6 +14,8 @@ export function useMDXComponents(components: MDXComponents): MDXComponents {
         alt={props.alt || ""}
       />
     ),
+    InlineCTA,
+    TableOfContents,
     ...components,
   };
 }
