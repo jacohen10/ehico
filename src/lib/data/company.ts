@@ -1,0 +1,30 @@
+export const COMPANY = {
+  name: "EHI Co",
+  legalName: "EHI Company",
+  address: {
+    street: "4016 Granby Street",
+    city: "Norfolk",
+    state: "VA",
+    zip: "23504",
+  },
+  phone: "(757) 640-0243",
+  phoneHref: "tel:+17576400243",
+  email: "mail@ehico.com",
+  url: "https://ehico.com",
+  founded: 1977,
+  gsaContract: "47QSMS25D00A6",
+  sin: "334310",
+  sinDescription: "Audio and Video Equipment Manufacturing",
+  hours: {
+    weekday: "Monday - Thursday: 9:00 AM - 7:00 PM",
+    friday: "Friday: 9:00 AM - 4:00 PM",
+    weekend: "Saturday - Sunday: Closed",
+  },
+  hoursStructured: [
+    { days: "Monday", open: "09:00", close: "19:00" },
+    { days: "Tuesday", open: "09:00", close: "19:00" },
+    { days: "Wednesday", open: "09:00", close: "19:00" },
+    { days: "Thursday", open: "09:00", close: "19:00" },
+    { days: "Friday", open: "09:00", close: "16:00" },
+  ],
+} as const;
