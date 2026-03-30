@@ -15,6 +15,7 @@ export const mainNavigation: NavItem[] = [
       { label: "LED Fixtures", href: "/services/led-fixtures" },
       { label: "Shade Installation", href: "/services/shade-installation" },
       { label: "Security Cameras", href: "/services/security-cameras" },
+      { label: "Digital Signage", href: "/services/digital-signage" },
     ],
   },
   {
@@ -39,6 +40,7 @@ export const footerNavigation = {
     { label: "LED Fixtures", href: "/services/led-fixtures" },
     { label: "Shade Installation", href: "/services/shade-installation" },
     { label: "Security Cameras", href: "/services/security-cameras" },
+    { label: "Digital Signage", href: "/services/digital-signage" },
   ],
   company: [
     { label: "About", href: "/about" },

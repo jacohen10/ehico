@@ -94,6 +94,20 @@ These go in `/blog/` with a `landing` category but are really conversion pages �
 
 ---
 
+### DIGITAL SIGNAGE FOCUS — Blog Posts (5) — Priority content
+
+These support the new `/services/digital-signage` page and target businesses actively searching.
+
+| # | Title | Target Keyword | Category |
+|---|-------|---------------|----------|
+| DS1 | How Much Does Digital Signage Cost? A Breakdown for Businesses | digital signage cost | Pricing |
+| DS2 | Digital Menu Boards vs. Printed Menus: Why Restaurants Are Switching | digital menu board vs printed | Guides |
+| DS3 | 5 Ways Digital Signage Increases Foot Traffic for Retail Stores | digital signage retail benefits | Listicle |
+| DS4 | How to Choose the Right Digital Signage for Your Business | how to choose digital signage | Guides |
+| DS5 | Digital Signage for Office Lobbies: First Impressions That Work | office lobby digital signage | Use Case |
+
+---
+
 ### SEO BLOG POSTS — How-To & Educational (15) — 1,200-2,000 words
 
 5 already exist. 10 new ones needed:

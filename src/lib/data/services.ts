@@ -304,6 +304,77 @@ export const services: Service[] = [
     ],
     relatedServices: ["commercial-av", "tv-installation"],
   },
+  {
+    slug: "digital-signage",
+    title: "Digital Signage Installation in Hampton Roads",
+    shortTitle: "Digital Signage",
+    description:
+      "Professional digital signage installation for restaurants, retail, offices, and healthcare facilities in Norfolk and Hampton Roads. Menu boards, video walls, and display networks.",
+    heroHeading: "Digital Signage Solutions",
+    heroSubheading:
+      "Engage customers, inform visitors, and modernize your business with professional digital displays.",
+    icon: "signage",
+    sections: [
+      {
+        heading: "Restaurant & Cafe Menu Boards",
+        body: "Replace printed menus with vibrant digital displays that are easy to update. Change prices, add daily specials, feature seasonal items, and display high-quality food photography — all from your phone or computer. Digital menu boards have been shown to increase average order value by drawing attention to high-margin items and promotions. We install indoor counter displays, drive-through boards, and window-facing screens.",
+      },
+      {
+        heading: "Retail & Storefront Displays",
+        body: "Capture foot traffic and drive sales with eye-catching digital displays. Promote sales, highlight new arrivals, display social media feeds, or run branded content in your storefront windows and throughout your store. Our retail signage solutions support scheduled content so your promotions change automatically by time of day or day of week.",
+      },
+      {
+        heading: "Office & Corporate Signage",
+        body: "Make a strong first impression with lobby displays showing company news, welcome messages, and brand content. Keep your team informed with internal dashboards, KPI displays, and meeting room schedules. We install everything from single lobby screens to multi-floor display networks with centralized management.",
+      },
+      {
+        heading: "Healthcare & Waiting Room Displays",
+        body: "Improve the patient experience with displays showing wait times, health education content, wayfinding information, and entertainment. Digital signage in healthcare settings has been shown to reduce perceived wait times and improve patient satisfaction. We design solutions that are easy for staff to manage.",
+      },
+      {
+        heading: "Content Management & Remote Updates",
+        body: "Every digital signage system we install includes content management software so you can update your displays from anywhere. Schedule content in advance, create playlists, and manage multiple screens from a single dashboard. We set everything up, train your staff, and provide ongoing support.",
+      },
+    ],
+    features: [
+      "Commercial-grade displays rated for 16+ hours daily operation",
+      "Indoor and outdoor digital signage options",
+      "Cloud-based content management — update from anywhere",
+      "Scheduled content playlists and dayparting",
+      "Video wall and multi-screen configurations",
+      "Menu board systems with POS integration options",
+      "Portrait and landscape orientations",
+      "Professional mounting and cable concealment",
+    ],
+    faqs: [
+      {
+        question: "How much does a digital signage setup cost?",
+        answer:
+          "A single-screen setup typically runs $1,000–$3,500 including a commercial display, media player, content management software, and professional installation. Multi-screen networks and video walls are quoted per project.",
+      },
+      {
+        question: "Can I use a regular TV instead of a commercial display?",
+        answer:
+          "For screens running less than 8 hours a day in non-customer-facing areas, a consumer TV can work. For anything customer-facing or running extended hours, commercial displays are worth the investment — they're brighter, more durable, and designed for continuous operation.",
+      },
+      {
+        question: "How do I update the content on my digital signs?",
+        answer:
+          "Through a web-based content management platform. You can upload images, videos, and text from any computer or smartphone. Most changes go live within seconds.",
+      },
+      {
+        question: "Do you provide the content design?",
+        answer:
+          "We focus on the hardware and installation side. We can recommend content design partners, and many content management platforms include built-in templates that make it easy to create professional-looking content yourself.",
+      },
+      {
+        question: "Can digital menu boards integrate with my POS system?",
+        answer:
+          "Yes, many digital signage platforms support POS integration so your menu and pricing stay in sync automatically. We can discuss compatibility with your specific POS during consultation.",
+      },
+    ],
+    relatedServices: ["commercial-av", "tv-installation", "led-fixtures"],
+  },
 ];
 
 export function getServiceBySlug(slug: string): Service | undefined {
