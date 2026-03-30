@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import { COMPANY } from "@/lib/data/company";
 import { footerNavigation } from "@/lib/data/navigation";
 import { Container } from "@/components/ui/container";
@@ -11,7 +12,7 @@ export function Footer() {
           {/* Company info */}
           <div>
             <Link href="/" className="text-xl font-bold text-white">
-              EHI <span className="font-normal text-primary-300">Co</span>
+              EHI <span className="font-normal text-primary-300">Company</span>
             </Link>
             <p className="mt-4 text-sm leading-relaxed">
               Professional AV installation and products serving Hampton Roads

@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import Image from "next/image";
 import { useState } from "react";
 import { mainNavigation } from "@/lib/data/navigation";
 import { COMPANY } from "@/lib/data/company";
@@ -87,7 +88,7 @@ export function MobileNav({
       <div className="fixed inset-0 bg-black/20" onClick={onClose} />
       <div className="fixed inset-y-0 right-0 w-full max-w-sm bg-white shadow-xl">
         <div className="flex h-16 items-center justify-between px-4">
-          <span className="text-xl font-bold text-primary-900">EHI Co</span>
+          <Image src="/logo.jpg" alt="EHI Co" width={80} height={40} className="h-8 w-auto" />
           <button
             type="button"
             onClick={onClose}

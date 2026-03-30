@@ -18,7 +18,7 @@ export default function HomePage() {
 
       <Hero
         heading="Audio Visual Solutions for Hampton Roads"
-        subheading={`From TV installations to commercial AV systems, EHI Co has been delivering professional audio visual services since ${COMPANY.founded}. GSA contract holder serving residential and government clients nationwide.`}
+        subheading={`From TV installations to commercial AV systems, EHI Co has been delivering professional audio visual services to homes and businesses since ${COMPANY.founded}. We're also a GSA contract holder, serving government agencies nationwide.`}
       >
         <Button variant="accent" size="lg" href="/contact">
           Get a Free Quote
