@@ -3,7 +3,7 @@
 import { useState } from "react";
 import { services } from "@/lib/data/services";
 
-const API_URL = process.env.NEXT_PUBLIC_CONTACT_API_URL || "https://api.slouchalert.com";
+const API_URL = "https://api.slouchalert.com";
 
 const inputClasses =
   "mt-1 block w-full rounded-lg border border-border px-4 py-2.5 text-sm transition-colors focus:border-primary-500 focus:outline-none focus:ring-2 focus:ring-primary-500/20";
