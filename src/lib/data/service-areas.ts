@@ -15,7 +15,7 @@ export const serviceAreas: ServiceArea[] = [
     city: "Norfolk",
     state: "VA",
     description:
-      "EHI Co provides professional AV installation, LED fixtures, and security cameras in Norfolk, VA. Serving the Norfolk community since 1977.",
+      "EHI provides professional AV installation, LED fixtures, and security cameras in Norfolk, VA. Serving the Norfolk community since 1977.",
     heroHeading: "AV Installation Services in Norfolk, VA",
     highlights: [
       "Our home base since 1977",
@@ -24,14 +24,14 @@ export const serviceAreas: ServiceArea[] = [
     ],
     nearbyAreas: ["virginia-beach", "chesapeake", "portsmouth"],
     localDetails:
-      "Based on Granby Street in the heart of Norfolk, EHI Co has been serving the local community for nearly 50 years. From the Naval Station to downtown businesses and Ghent residences, we know Norfolk inside and out.",
+      "Based on Granby Street in the heart of Norfolk, EHI has been serving the local community for nearly 50 years. From the Naval Station to downtown businesses and Ghent residences, we know Norfolk inside and out.",
   },
   {
     slug: "virginia-beach",
     city: "Virginia Beach",
     state: "VA",
     description:
-      "Professional TV installation, LED fixtures, and security cameras in Virginia Beach, VA. Residential and commercial AV services from EHI Co.",
+      "Professional TV installation, LED fixtures, and security cameras in Virginia Beach, VA. Residential and commercial AV services from EHI.",
     heroHeading: "AV Installation Services in Virginia Beach, VA",
     highlights: [
       "Oceanfront hotel and resort installations",
@@ -47,7 +47,7 @@ export const serviceAreas: ServiceArea[] = [
     city: "Chesapeake",
     state: "VA",
     description:
-      "Professional AV installation and security camera services in Chesapeake, VA. Serving homes and businesses from EHI Co in Norfolk.",
+      "Professional AV installation and security camera services in Chesapeake, VA. Serving homes and businesses from EHI in Norfolk.",
     heroHeading: "AV Installation Services in Chesapeake, VA",
     highlights: [
       "Greenbrier and Battlefield area commercial work",
@@ -63,7 +63,7 @@ export const serviceAreas: ServiceArea[] = [
     city: "Newport News",
     state: "VA",
     description:
-      "Professional TV mounting, commercial AV, and security camera installation in Newport News, VA from EHI Co.",
+      "Professional TV mounting, commercial AV, and security camera installation in Newport News, VA from EHI.",
     heroHeading: "AV Installation Services in Newport News, VA",
     highlights: [
       "City Center and Oyster Point commercial district",
@@ -72,14 +72,14 @@ export const serviceAreas: ServiceArea[] = [
     ],
     nearbyAreas: ["hampton", "williamsburg"],
     localDetails:
-      "We serve the Peninsula with the same expertise we bring to the Southside. Newport News businesses and homeowners trust EHI Co for reliable, professional installations.",
+      "We serve the Peninsula with the same expertise we bring to the Southside. Newport News businesses and homeowners trust EHI for reliable, professional installations.",
   },
   {
     slug: "hampton",
     city: "Hampton",
     state: "VA",
     description:
-      "Professional AV installation services in Hampton, VA. TV mounting, LED fixtures, and security cameras from EHI Co.",
+      "Professional AV installation services in Hampton, VA. TV mounting, LED fixtures, and security cameras from EHI.",
     heroHeading: "AV Installation Services in Hampton, VA",
     highlights: [
       "Coliseum Central commercial district",
@@ -95,7 +95,7 @@ export const serviceAreas: ServiceArea[] = [
     city: "Suffolk",
     state: "VA",
     description:
-      "Professional AV installation and security camera services in Suffolk, VA. Serving homes and businesses from EHI Co.",
+      "Professional AV installation and security camera services in Suffolk, VA. Serving homes and businesses from EHI.",
     heroHeading: "AV Installation Services in Suffolk, VA",
     highlights: [
       "Harbour View growth corridor",
@@ -111,7 +111,7 @@ export const serviceAreas: ServiceArea[] = [
     city: "Portsmouth",
     state: "VA",
     description:
-      "Professional TV installation, LED lighting, and security cameras in Portsmouth, VA from EHI Co in Norfolk.",
+      "Professional TV installation, LED lighting, and security cameras in Portsmouth, VA from EHI in Norfolk.",
     heroHeading: "AV Installation Services in Portsmouth, VA",
     highlights: [
       "Olde Towne commercial and residential",
@@ -127,7 +127,7 @@ export const serviceAreas: ServiceArea[] = [
     city: "Williamsburg",
     state: "VA",
     description:
-      "Professional AV installation services in Williamsburg, VA. TV mounting, commercial AV, and security cameras from EHI Co.",
+      "Professional AV installation services in Williamsburg, VA. TV mounting, commercial AV, and security cameras from EHI.",
     heroHeading: "AV Installation Services in Williamsburg, VA",
     highlights: [
       "College of William & Mary area",

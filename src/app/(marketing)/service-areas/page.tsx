@@ -8,7 +8,7 @@ import Link from "next/link";
 export const metadata: Metadata = {
   title: "Service Areas",
   description:
-    "EHI Co provides professional AV installation services across Hampton Roads including Norfolk, Virginia Beach, Chesapeake, Newport News, Hampton, Suffolk, Portsmouth, and Williamsburg.",
+    "EHI provides professional AV installation services across Hampton Roads including Norfolk, Virginia Beach, Chesapeake, Newport News, Hampton, Suffolk, Portsmouth, and Williamsburg.",
 };
 
 export default function ServiceAreasPage() {

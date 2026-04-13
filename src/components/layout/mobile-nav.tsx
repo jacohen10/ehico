@@ -88,7 +88,7 @@ export function MobileNav({
       <div className="fixed inset-0 bg-black/20" onClick={onClose} />
       <div className="fixed inset-y-0 right-0 w-full max-w-sm bg-white shadow-xl">
         <div className="flex h-16 items-center justify-between px-4">
-          <Image src="/logo.jpg" alt="EHI Co" width={80} height={40} className="h-8 w-auto" />
+          <Image src="/logo.jpg" alt="EHI" width={80} height={40} className="h-8 w-auto" />
           <button
             type="button"
             onClick={onClose}

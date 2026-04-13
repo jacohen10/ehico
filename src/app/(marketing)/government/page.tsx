@@ -6,7 +6,7 @@ import { COMPANY } from "@/lib/data/company";
 
 export const metadata: Metadata = {
   title: "Government Services",
-  description: `EHI Co is a GSA Schedule contract holder (${COMPANY.gsaContract}). Professional AV equipment and installation services for federal, state, and local government agencies.`,
+  description: `EHI is a GSA Schedule contract holder (${COMPANY.gsaContract}). Professional AV equipment and installation services for federal, state, and local government agencies.`,
 };
 
 export default function GovernmentPage() {
@@ -14,7 +14,7 @@ export default function GovernmentPage() {
     <>
       <Hero
         heading="Government AV Solutions"
-        subheading={`EHI Co holds GSA Contract ${COMPANY.gsaContract} under SIN ${COMPANY.sin}. We provide TAA compliant AV products and professional installation services to government agencies nationwide.`}
+        subheading={`EHI holds GSA Contract ${COMPANY.gsaContract} under SIN ${COMPANY.sin}. We provide TAA compliant AV products and professional installation services to government agencies nationwide.`}
       >
         <Button variant="accent" size="lg" href="/government/gsa-contract">
           View Contract Details

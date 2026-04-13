@@ -21,7 +21,7 @@ export async function generateMetadata({
   const formatted = category.charAt(0).toUpperCase() + category.slice(1);
   return {
     title: `${formatted} Articles`,
-    description: `${formatted} articles and guides from EHI Co — AV installation tips, how-to guides, and industry insights.`,
+    description: `${formatted} articles and guides from EHI — AV installation tips, how-to guides, and industry insights.`,
   };
 }
 

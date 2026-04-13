@@ -7,7 +7,7 @@ import { manufacturers } from "@/lib/data/manufacturers";
 export const metadata: Metadata = {
   title: "Manufacturers",
   description:
-    "EHI Co partners with leading AV manufacturers including LG, Samsung, Peerless-AV, Da-Lite, and more. Quality products for residential and commercial installations.",
+    "EHI partners with leading AV manufacturers including LG, Samsung, Peerless-AV, Da-Lite, and more. Quality products for residential and commercial installations.",
 };
 
 export default function ManufacturersPage() {

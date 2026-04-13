@@ -5,15 +5,15 @@ import "./globals.css";
 export const metadata: Metadata = {
   metadataBase: new URL("https://ehico.com"),
   title: {
-    default: "EHI Co | AV Installation & Products | Norfolk, VA",
-    template: "%s | EHI Co",
+    default: "EHI | AV Installation & Products | Norfolk, VA",
+    template: "%s | EHI",
   },
   description:
     "Professional AV installation, LED fixtures, and security cameras serving Hampton Roads since 1977. GSA contract holder.",
   openGraph: {
     type: "website",
     locale: "en_US",
-    siteName: "EHI Co",
+    siteName: "EHI",
   },
 };
 

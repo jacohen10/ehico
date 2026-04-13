@@ -94,7 +94,7 @@ export function Header() {
           <Link href="/" className="flex items-center">
             <Image
               src="/logo.jpg"
-              alt="EHI Co"
+              alt="EHI"
               width={80}
               height={40}
               className="h-8 w-auto"

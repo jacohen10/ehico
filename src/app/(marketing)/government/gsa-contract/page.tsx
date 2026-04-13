@@ -6,7 +6,7 @@ import { COMPANY } from "@/lib/data/company";
 
 export const metadata: Metadata = {
   title: "GSA Contract",
-  description: `EHI Co GSA Contract ${COMPANY.gsaContract}, SIN ${COMPANY.sin} — ${COMPANY.sinDescription}. TAA compliant AV products and installation for government agencies.`,
+  description: `EHI GSA Contract ${COMPANY.gsaContract}, SIN ${COMPANY.sin} — ${COMPANY.sinDescription}. TAA compliant AV products and installation for government agencies.`,
 };
 
 export default function GSAContractPage() {
@@ -54,7 +54,7 @@ export default function GSAContractPage() {
                 About Our GSA Schedule
               </h2>
               <p className="mt-4 text-lg leading-8 text-muted-foreground">
-                EHI Co's GSA Schedule contract provides government agencies with
+                EHI's GSA Schedule contract provides government agencies with
                 streamlined access to professional audio visual equipment and
                 installation services. Our contract covers a wide range of
                 products under SIN {COMPANY.sin} ({COMPANY.sinDescription}),

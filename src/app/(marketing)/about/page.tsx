@@ -6,14 +6,14 @@ import { COMPANY } from "@/lib/data/company";
 
 export const metadata: Metadata = {
   title: "About",
-  description: `Learn about EHI Co — a Norfolk, VA-based AV installation company founded in ${COMPANY.founded}. Nearly 50 years of experience serving Hampton Roads and government agencies nationwide.`,
+  description: `Learn about EHI — a Norfolk, VA-based AV installation company founded in ${COMPANY.founded}. Nearly 50 years of experience serving Hampton Roads and government agencies nationwide.`,
 };
 
 export default function AboutPage() {
   return (
     <>
       <Hero
-        heading="About EHI Co"
+        heading="About EHI"
         subheading={`Professional audio visual solutions since ${COMPANY.founded}. Based in Norfolk, serving Hampton Roads and beyond.`}
       />
 
@@ -24,7 +24,7 @@ export default function AboutPage() {
           </h2>
           <div className="mt-6 space-y-6 text-lg leading-8 text-muted-foreground">
             <p>
-              Founded in {COMPANY.founded}, EHI Co has grown from a small
+              Founded in {COMPANY.founded}, EHI has grown from a small
               Norfolk operation into a trusted AV partner for homeowners,
               businesses, healthcare facilities, and government agencies. For
               nearly 50 years, we&apos;ve been installing, integrating, and
@@ -51,7 +51,7 @@ export default function AboutPage() {
       <Section variant="muted">
         <div className="mx-auto max-w-3xl">
           <h2 className="text-2xl font-bold text-primary-900 sm:text-3xl">
-            Why Choose EHI Co
+            Why Choose EHI
           </h2>
           <div className="mt-8 grid gap-8 sm:grid-cols-2">
             {[

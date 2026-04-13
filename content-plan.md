@@ -1,7 +1,7 @@
-# EHI Co SEO Content Plan — 0 to 50+ Organic Clicks/Week
+# EHI SEO Content Plan — 0 to 50+ Organic Clicks/Week
 
 ## Context
-EHI Co (ehico.com) is an AV installation company in Norfolk, VA (est. 1977). The site is built and deployed with 6 service pages, 8 service area pages, government section, and 5 blog posts. This plan adds ~40 pieces of content and the infrastructure to support them, targeting 50+ organic clicks/week within 6-9 months.
+EHI (ehico.com) is an AV installation company in Norfolk, VA (est. 1977). The site is built and deployed with 6 service pages, 8 service area pages, government section, and 5 blog posts. This plan adds ~40 pieces of content and the infrastructure to support them, targeting 50+ organic clicks/week within 6-9 months.
 
 ## Current Content Inventory
 - 6 service pages (`/services/[slug]`)
@@ -54,7 +54,7 @@ Default OG image for the site + per-page OG metadata. Even a simple branded temp
 ## Content Plan (40 pieces)
 
 ### Writing Guidelines (All Content)
-- **Internal links**: Every article links to 2-4 other EHI Co pages (related articles, service pages, service area pages, contact). Use descriptive anchor text matching target keywords.
+- **Internal links**: Every article links to 2-4 other EHI pages (related articles, service pages, service area pages, contact). Use descriptive anchor text matching target keywords.
 - **External links**: 1-3 outbound links to authoritative sources (manufacturer sites, industry data, government resources).
 - **CTA**: Each article ends with an `<InlineCTA>` component. Customize heading/text to match the article topic.
 - **Frontmatter**: Always fill in `relatedSlugs` (2-3 related articles) so Related Articles populates automatically.

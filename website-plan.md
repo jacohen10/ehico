@@ -1,7 +1,7 @@
-# EHI Co Website Rebuild + SEO Content Plan
+# EHI Website Rebuild + SEO Content Plan
 
 ## Context
-EHI Co (ehico.com) is dad's AV products and installation company, founded 1977, based in Norfolk, VA. Current site is a single-page HTML/jQuery site — dated, no blog, no SEO content. The goal is to rebuild it as a modern Next.js site with two audiences: (1) local B2B/B2C in Hampton Roads for services, and (2) national government/GSA contract work. A data-driven content plan using DataForSEO keyword research will take the site from 0 to 50 organic clicks/week.
+EHI (ehico.com) is dad's AV products and installation company, founded 1977, based in Norfolk, VA. Current site is a single-page HTML/jQuery site — dated, no blog, no SEO content. The goal is to rebuild it as a modern Next.js site with two audiences: (1) local B2B/B2C in Hampton Roads for services, and (2) national government/GSA contract work. A data-driven content plan using DataForSEO keyword research will take the site from 0 to 50 organic clicks/week.
 
 **GSA Contract**: 47QSMS25D00A6, SIN 334310 (Audio and Video Equipment Manufacturing)
 **Services**: TV/display installation, LED fixtures, shade installations, security cameras, handyman work, expanding
@@ -130,7 +130,7 @@ Build in this order:
 - Upload project photos, post weekly linking to blog
 
 ### NAP Consistency:
-- EHI Co, 4016 Granby Street, Norfolk, VA 23504, (757) 640-0243
+- EHI, 4016 Granby Street, Norfolk, VA 23504, (757) 640-0243
 - List on: Yelp, BBB, Angi, HomeAdvisor, Houzz, local Chamber of Commerce
 
 ### 301 Redirects:

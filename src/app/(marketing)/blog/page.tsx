@@ -8,7 +8,7 @@ import { getAllPosts } from "@/lib/blog/mdx";
 export const metadata: Metadata = {
   title: "Blog",
   description:
-    "Tips, guides, and insights about AV installation, LED lighting, security cameras, and smart home technology from EHI Co in Hampton Roads, VA.",
+    "Tips, guides, and insights about AV installation, LED lighting, security cameras, and smart home technology from EHI in Hampton Roads, VA.",
 };
 
 export default async function BlogPage() {

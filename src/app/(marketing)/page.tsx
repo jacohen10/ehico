@@ -18,7 +18,7 @@ export default function HomePage() {
 
       <Hero
         heading="Audio Visual Solutions for Hampton Roads"
-        subheading={`From TV installations to commercial AV systems, EHI Co has been delivering professional audio visual services to homes and businesses since ${COMPANY.founded}. We're also a GSA contract holder, serving government agencies nationwide.`}
+        subheading={`From TV installations to commercial AV systems, EHI has been delivering professional audio visual services to homes and businesses since ${COMPANY.founded}. We're also a GSA contract holder, serving government agencies nationwide.`}
       >
         <Button variant="accent" size="lg" href="/contact">
           Get a Free Quote
@@ -61,7 +61,7 @@ export default function HomePage() {
             Serving Hampton Roads Since 1977
           </h2>
           <p className="mt-6 text-lg leading-8 text-muted-foreground">
-            Founded nearly 50 years ago, EHI Co has grown from a small Norfolk
+            Founded nearly 50 years ago, EHI has grown from a small Norfolk
             operation into a trusted AV partner for homeowners, businesses, and
             government agencies. Our team combines decades of installation
             experience with the latest technology to deliver results you can
@@ -69,7 +69,7 @@ export default function HomePage() {
           </p>
           <div className="mt-8">
             <Button variant="outline" href="/about">
-              Learn About EHI Co
+              Learn About EHI
             </Button>
           </div>
         </div>
@@ -110,7 +110,7 @@ export default function HomePage() {
               GSA Schedule Contract Holder
             </h2>
             <p className="mt-4 text-lg text-muted-foreground">
-              EHI Co holds GSA Contract {COMPANY.gsaContract} under SIN{" "}
+              EHI holds GSA Contract {COMPANY.gsaContract} under SIN{" "}
               {COMPANY.sin} ({COMPANY.sinDescription}). We provide TAA compliant
               products and professional installation services to federal, state,
               and local government agencies.

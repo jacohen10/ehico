@@ -7,7 +7,7 @@ import { COMPANY } from "@/lib/data/company";
 export const metadata: Metadata = {
   title: "Capabilities",
   description:
-    "EHI Co capabilities statement — past performance, certifications, and professional AV service categories for government and commercial projects.",
+    "EHI capabilities statement — past performance, certifications, and professional AV service categories for government and commercial projects.",
 };
 
 const capabilities = [
@@ -123,7 +123,7 @@ export default function CapabilitiesPage() {
 
       <CTABanner
         heading="Work With Us"
-        subheading="Contact our team to discuss your project requirements and how EHI Co can support your mission."
+        subheading="Contact our team to discuss your project requirements and how EHI can support your mission."
         buttonText="Contact Us"
       />
     </>

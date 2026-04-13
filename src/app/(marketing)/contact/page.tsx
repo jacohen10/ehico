@@ -7,7 +7,7 @@ import { COMPANY } from "@/lib/data/company";
 export const metadata: Metadata = {
   title: "Contact Us",
   description:
-    "Contact EHI Co for a free quote on AV installation, LED fixtures, security cameras, and more. Serving Hampton Roads, VA since 1977.",
+    "Contact EHI for a free quote on AV installation, LED fixtures, security cameras, and more. Serving Hampton Roads, VA since 1977.",
 };
 
 export default function ContactPage() {
