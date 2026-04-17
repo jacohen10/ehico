@@ -49,12 +49,6 @@ export const manufacturers: Manufacturer[] = [
     categories: ["audio"],
   },
   {
-    name: "Vutech",
-    slug: "vutech",
-    description: "LED fixtures and lighting solutions",
-    categories: ["led-fixtures"],
-  },
-  {
     name: "Cooltouch",
     slug: "cooltouch",
     description: "Interactive display and touch screen solutions",
